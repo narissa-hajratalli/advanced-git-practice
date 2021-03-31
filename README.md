@@ -1,1 +1,1 @@
-# advanced-git-practice
+# Advanced Git Practice (from Udemy course)
